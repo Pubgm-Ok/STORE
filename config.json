@@ -1,13 +1,13 @@
 {
-  "show_32_apk": true,
-  "url_32_apk": "https://github.com/Pubgm-Ok/STORE/releases/download/STRING/32bit_base.apk",
-
-  "show_64_apk": true,
-  "url_64_apk": "https://github.com/Pubgm-Ok/STORE/releases/download/STRING/64bit_base.apk",
+  "show_64_loader": true,
+  "url_64_loader": "https://github.com/Pubgm-Ok/STORE/releases/download/STRING/64bit_loader.apk",
 
   "show_32_loader": false,
   "url_32_loader": "https://github.com/Pubgm-Ok/STORE/releases/download/STRING/32bit_loader.apk",
 
-  "show_64_loader": true,
-  "url_64_loader": "https://github.com/Pubgm-Ok/STORE/releases/download/STRING/64bit_loader.apk"
+  "show_64_apk": true,
+  "url_64_apk": "https://github.com/Pubgm-Ok/STORE/releases/download/STRING/64bit_base.apk",
+
+  "show_32_apk": true,
+  "url_32_apk": "https://github.com/Pubgm-Ok/STORE/releases/download/STRING/32bit_base.apk"
 }
