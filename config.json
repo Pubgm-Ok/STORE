@@ -1,5 +1,5 @@
 {
-  "show_64_loader": true,
+  "show_64_loader": false,
   "url_64_loader": "https://github.com/Pubgm-Ok/STORE/releases/download/STRING/64bit_loader.apk",
 
   "show_32_loader": false,
